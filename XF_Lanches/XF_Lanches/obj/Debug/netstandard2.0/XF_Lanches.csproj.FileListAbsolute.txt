@@ -1,0 +1,15 @@
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\bin\Debug\netstandard2.0\XF_Lanches.deps.json
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\bin\Debug\netstandard2.0\XF_Lanches.dll
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\bin\Debug\netstandard2.0\XF_Lanches.pdb
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\XF_Lanches.csprojAssemblyReference.cache
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\LancheDetailsPage.xaml.g.cs
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\LanchePedidoConfirmacao.xaml.g.cs
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\LanchePedidoPage.xaml.g.cs
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\XF_Lanches.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\XF_Lanches.AssemblyInfoInputs.cache
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\XF_Lanches.AssemblyInfo.cs
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\XF_Lanches.dll
+C:\Users\Doug\Source\Repos\XF_Lanches\XF_Lanches\XF_Lanches\obj\Debug\netstandard2.0\XF_Lanches.pdb

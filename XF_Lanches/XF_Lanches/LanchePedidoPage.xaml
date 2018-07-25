@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XF_Lanches.LanchePedidoPage"
+             Title="{Binding Nome}">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <TableView>
+                <TableRoot>
+                    <TableSection Title="Seu Pedido">
+                        <ImageCell ImageSource="{Binding ImagemUrl}"/>
+                        <TextCell Text="{Binding Nome}" TextColor="Blue"></TextCell>
+                        <TextCell Text="{Binding ValorTotal}" TextColor="Blue"></TextCell>
+                    </TableSection>
+                    <TableSection Title="Seus Dados">
+                        <EntryCell x:Name="strNome" Label="Nome" Placeholder="Informe seu nome"></EntryCell>
+                        <EntryCell x:Name="strFone" Label="Fone" Placeholder="Informe seu telefone"></EntryCell>
+                        <EntryCell x:Name="strEmail" Label="Email" Placeholder="Informe seu email"></EntryCell>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+            <Button x:Name="btnPedido" Text="Concluir Pedido" Clicked="btnPedido_Clicked" VerticalOptions="End" TextColor="White" BackgroundColor="Blue" FontAttributes="Bold"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
